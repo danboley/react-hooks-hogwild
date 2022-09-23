@@ -40,7 +40,7 @@ const hogs = [
     specialty: "Racing",
     greased: true,
     weight: 1.7,
-    "highest medal achieved": "gold",
+    medal: "gold",
     image:
       "https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-hogwild/master/public/images/trouble.jpg",
   },
